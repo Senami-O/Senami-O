@@ -15,7 +15,8 @@
  -**Excel:** (Charts, Conditional Formatting),
 
 ## Goals
--Mastering advance sql
+-Mastering advance sql,
+
 -Working on real-world data project
 
 
