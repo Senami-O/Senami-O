@@ -1,18 +1,15 @@
   Hi there 👋 I'M Agunbide Senami.A graduate of accounting and an aspiring data analyst.
   
 
- ##ABOUT ME
+ ##About Me
  I'm passionate about using data to drive insights and decisions. Currently learning SQL, and data visualization tools.
  
 
  ###Technical skills
- *Data Analysis & Processing
  -Microsoft Excel (Pivot Tables, VLOOKUP, Power Query)
  -SQL (MySQL)
-
-*Data Visualization & Reporting
--Power BI (DAX, Dashboard Design)
--Excel (Charts, Conditional Formatting)
+ -Power BI (DAX, Dashboard Design)
+ -Excel (Charts, Conditional Formatting)
 
 ## Goals
 -Mastering advance sql
