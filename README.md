@@ -2,7 +2,7 @@
   
 
  ## About Me
- A results-driven professional with a strong background in Accounting and Data Analytics, equipped with advanced skills in financiall analysis, data visualization, and reporting. Proficient in using tools like Power BI, Excel, and SQL to analyze complex datasets, identify key insights, and support strategic decision-making. Expertise includes data cleaning, transformation, and presentation, with a focus on delivering actionable recommendations to optimize business performance. Experienced in designing interactive dashboards and reports that visualize critical business metrics, enabling stakeholders to track performance and make informed decisions. Holds certifications in Data Analytics & Business Intelligence, with a commitment to leveraging data-driven approaches to improve financial outcomes and operational efficiency.
+ A results-driven professional with a strong background in Accounting and Data Analytics, equipped with advanced skills in financiall analysis, data visualization, and reporting.Experienced in designing interactive dashboards and reports that visualize critical business metrics, enabling stakeholders to track performance and make informed decisions. Holds certifications in Data Analytics & Business Intelligence, with a commitment to leveraging data-driven approaches to improve financial outcomes and operational efficiency.
  
 
  ## Technical skills
@@ -17,7 +17,9 @@
 ## Goals
 -Mastering advance sql,
 
--Working on real-world data project
+-Bridging the gap between finance and technology
+
+-Contnuously learning and improving data analysis skills
 
 
 
