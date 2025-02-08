@@ -5,7 +5,7 @@
  I'm passionate about using data to drive insights and decisions. Currently learning SQL, and data visualization tools.
  
 
- ##Technical skills
+ ## Technical skills
  -**Microsoft Excel:** (Pivot Tables, VLOOKUP, Power Query)
  -**SQL:** (MySQL)
  -**Power BI:** (DAX, Dashboard Design)
