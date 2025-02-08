@@ -1,9 +1,31 @@
-## Hi there 👋
+ # Hi there 👋 I'M Agunbide Senami.A graduate of accounting and an aspiring data analyst.
+
+ ##ABOUT ME
+ I'm passionate about using data to drive insights and decisions. Currently learning SQL, and data visualization tools.
+
+ ##:wrench:Technical skills
+ .Data Analysis & Processing
+  Microsoft Excel (Pivot Tables, VLOOKUP, Power Query)
+  SQL (MySQL)
+
+.Data Visualization & Reporting
+Power BI (DAX, Dashboard Design)
+Excel (Charts, Conditional Formatting)
+
+## Goals
+-Mastering advance sql
+-Working on real-world data project
+
+
+
+
+ 
+ 
 
 <!--
 **Senami-O/Senami-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:      
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
