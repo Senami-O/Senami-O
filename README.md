@@ -3,14 +3,14 @@
  ##ABOUT ME
  I'm passionate about using data to drive insights and decisions. Currently learning SQL, and data visualization tools.
 
- ##:wrench:Technical skills
- .Data Analysis & Processing
-  Microsoft Excel (Pivot Tables, VLOOKUP, Power Query)
-  SQL (MySQL)
+ ###Technical skills
+ *Data Analysis & Processing
+ -Microsoft Excel (Pivot Tables, VLOOKUP, Power Query)
+ -SQL (MySQL)
 
-.Data Visualization & Reporting
-Power BI (DAX, Dashboard Design)
-Excel (Charts, Conditional Formatting)
+*Data Visualization & Reporting
+-Power BI (DAX, Dashboard Design)
+-Excel (Charts, Conditional Formatting)
 
 ## Goals
 -Mastering advance sql
