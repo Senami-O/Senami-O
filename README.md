@@ -1,7 +1,9 @@
- # Hi there 👋 I'M Agunbide Senami.A graduate of accounting and an aspiring data analyst.
+  Hi there 👋 I'M Agunbide Senami.A graduate of accounting and an aspiring data analyst.
+  
 
  ##ABOUT ME
  I'm passionate about using data to drive insights and decisions. Currently learning SQL, and data visualization tools.
+ 
 
  ###Technical skills
  *Data Analysis & Processing
