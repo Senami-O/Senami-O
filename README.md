@@ -6,10 +6,10 @@
  
 
  ## Technical skills
- -**Microsoft Excel:** (Pivot Tables, VLOOKUP, Power Query)
- -**SQL:** (MySQL)
- -**Power BI:** (DAX, Dashboard Design)
- -**Excel:** (Charts, Conditional Formatting)
+ -**Microsoft Excel:** (Pivot Tables, VLOOKUP, Power Query),
+ -**SQL:** (MySQL),
+ -**Power BI:** (DAX, Dashboard Design),
+ -**Excel:** (Charts, Conditional Formatting),
 
 ## Goals
 -Mastering advance sql
